@@ -14,12 +14,14 @@ We use FlexGen framework to run large language models with a Single GPU.
 Under `./LLM_inference_eval/`
 
 
-#### Evaluate LLaMA
+#### Evaluate OPT
+
 ```
 bash ./opt.sh
 ```
 
-#### Evaluate OPT
+#### Evaluate LLaMA
+
 ```
 bash ./llama.sh
 ```
